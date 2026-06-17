@@ -37,13 +37,13 @@ College Event Management System is a web-based application developed using PHP, 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](eventscreenshots/homepage.png)
 
 ### Event Registration
-![Event Registration](screenshots/registerpage.png)
+![Event Registration](eventscreenshots/regitrationpage.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/adminpage.png)
+![Admin Dashboard](eventscreenshots/adminpage.png)
 
 ## Installation Guide
 
